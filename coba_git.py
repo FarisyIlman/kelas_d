@@ -1,0 +1,1 @@
+print("farisy ilman s")
